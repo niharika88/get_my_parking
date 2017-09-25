@@ -1,0 +1,15 @@
+create_parking_garage 6
+park KA-01-KK-1234 White
+park KA-01-KK-9999 White
+park KA-01-DD-0001 Black
+park KA-01-KK-7777 Red
+park KA-01-KK-2701 Blue
+park KA-01-KK-3141 Black
+leave 4
+status
+park KA-01-Q-333 White
+park DL-14-AA-9999 White
+registration_numbers_of_cars_with_colour White
+slots_for_cars_with_colour White
+slot_for_registration_number KA-01-KK-3141
+slot_for_registration_number MH-04-AU-1111
